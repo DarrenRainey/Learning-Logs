@@ -24,6 +24,7 @@ streak | course | date
 25 | Linux System Hardening | Tue Dec 03 2024 00:00:00 GMT+0000 (Coordinated Universal Time)
 25 | Log Operations | Tue Dec 03 2024 00:00:00 GMT+0000 (Coordinated Universal Time)
 25 | Metasploit: Introduction  | Tue Dec 03 2024 00:00:00 GMT+0000 (Coordinated Universal Time)
+26 | Microsoft Windows Hardening | Wed Dec 04 2024 00:00:00 GMT+0000 (Coordinated Universal Time)
 25 | Network Device Hardening | Tue Dec 03 2024 00:00:00 GMT+0000 (Coordinated Universal Time)
 25 | Network Security Protocols | Tue Dec 03 2024 00:00:00 GMT+0000 (Coordinated Universal Time)
 25 | Networking Concepts | Tue Dec 03 2024 00:00:00 GMT+0000 (Coordinated Universal Time)
