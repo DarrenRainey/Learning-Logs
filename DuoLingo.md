@@ -10,3 +10,4 @@ streak | language | date
 296 | Irish | Sun Dec 08 2024 00:00:00 GMT+0000 (Coordinated Universal Time)
 297 | Irish | Mon Dec 09 2024 00:00:00 GMT+0000 (Coordinated Universal Time)
 298 | Irish | Tue Dec 10 2024 00:00:00 GMT+0000 (Coordinated Universal Time)
+299 | Irish | Wed Dec 11 2024 00:00:00 GMT+0000 (Coordinated Universal Time)
