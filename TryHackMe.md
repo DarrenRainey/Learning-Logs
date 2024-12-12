@@ -50,3 +50,4 @@ streak | course | date
 28 | Intro to IR and IM | Fri Dec 06 2024 00:00:00 GMT+0000 (Coordinated Universal Time)
 30 | Careers in Cyber | Sun Dec 08 2024 00:00:00 GMT+0000 (Coordinated Universal Time)
 30 | Web Application Security | Sun Dec 08 2024 00:00:00 GMT+0000 (Coordinated Universal Time)
+34 | What the Shell? | Thu Dec 12 2024 00:00:00 GMT+0000 (Coordinated Universal Time)
