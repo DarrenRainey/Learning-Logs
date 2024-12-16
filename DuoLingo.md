@@ -15,3 +15,4 @@ streak | language | date
 300 | Irish | Fri Dec 13 2024 00:00:00 GMT+0000 (Coordinated Universal Time)
 302 | Irish | Sat Dec 14 2024 00:00:00 GMT+0000 (Coordinated Universal Time)
 302 | Irish | Sun Dec 15 2024 00:00:00 GMT+0000 (Coordinated Universal Time)
+303 | Chinese | Mon Dec 16 2024 00:00:00 GMT+0000 (Coordinated Universal Time)
