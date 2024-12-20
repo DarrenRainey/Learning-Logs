@@ -19,3 +19,4 @@ streak | language | date
 305 | Chinese | Tue Dec 17 2024 00:00:00 GMT+0000 (Coordinated Universal Time)
 306 | Chinese | Wed Dec 18 2024 00:00:00 GMT+0000 (Coordinated Universal Time)
 307 | Chinese | Thu Dec 19 2024 00:00:00 GMT+0000 (Coordinated Universal Time)
+308 | Chinese | Fri Dec 20 2024 00:00:00 GMT+0000 (Coordinated Universal Time)
