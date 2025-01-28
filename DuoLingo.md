@@ -54,3 +54,4 @@ streak | language | date
 340 | Chinese | Tue Jan 21 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
 341 | Chinese | Wed Jan 22 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
 341 | Chinese | Thu Jan 23 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
+346 | Chinese | Tue Jan 28 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
