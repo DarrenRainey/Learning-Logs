@@ -77,3 +77,4 @@ streak | language | date
 368 | Chinese | Tue Feb 18 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
 369 | Chinese | Wed Feb 19 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
 370 | Chinese | Thu Feb 20 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
+371 | Chinese | Fri Feb 21 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
