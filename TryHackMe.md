@@ -103,3 +103,8 @@ streak | course | date
 134 | Unified Kill Chain | Sat Mar 22 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
 137 | Pyramid Of Pain  | Tue Mar 25 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
 142 | Phishing Emails in Action  | Sun Mar 30 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
+164 | Hydra | Tue Apr 22 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
+164 | Introductory Networking | Tue Apr 22 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
+164 | Investigating with ELK 101 | Tue Apr 22 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
+164 | Linux Forensics | Tue Apr 22 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
+164 | MITRE | Tue Apr 22 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
