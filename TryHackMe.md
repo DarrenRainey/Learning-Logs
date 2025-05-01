@@ -125,3 +125,6 @@ streak | course | date
 171 | Splunk: Basics | Tue Apr 29 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
 171 | Spring4Shell: CVE-2022-22965 | Tue Apr 29 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
 171 | Summit | Tue Apr 29 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
+173 | Next.js: CVE-2025-29927 | Thu May 01 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
+173 | SimpleHelp: CVE-2024-57727 | Thu May 01 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
+173 | Yara | Thu May 01 2025 00:00:00 GMT+0000 (Coordinated Universal Time)

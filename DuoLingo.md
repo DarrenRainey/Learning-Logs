@@ -146,3 +146,4 @@ streak | language | date
 436 | Irish | Mon Apr 28 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
 438 | Irish | Tue Apr 29 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
 439 | Irish | Wed Apr 30 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
+440 | Irish | Thu May 01 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
