@@ -128,3 +128,5 @@ streak | course | date
 173 | Next.js: CVE-2025-29927 | Thu May 01 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
 173 | SimpleHelp: CVE-2024-57727 | Thu May 01 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
 173 | Yara | Thu May 01 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
+174 | Core Windows Processes | Fri May 02 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
+174 | SOC Workbooks and Lookups | Fri May 02 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
