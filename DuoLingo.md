@@ -150,3 +150,4 @@ streak | language | date
 441 | Irish | Fri May 02 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
 441 | Irish | Sat May 03 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
 443 | Irish | Sun May 04 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
+444 | Japanese | Mon May 05 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
