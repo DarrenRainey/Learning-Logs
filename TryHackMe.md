@@ -131,3 +131,4 @@ streak | course | date
 174 | Core Windows Processes | Fri May 02 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
 174 | SOC Workbooks and Lookups | Fri May 02 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
 177 | MISP | Mon May 05 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
+183 | SOC Metrics and Objectives | Sun May 11 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
