@@ -173,3 +173,4 @@ streak | language | date
 464 | Irish | Sun May 25 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
 465 | Irish | Mon May 26 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
 466 | Irish | Tue May 27 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
+467 | Irish | Wed May 28 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
