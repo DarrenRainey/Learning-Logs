@@ -186,3 +186,4 @@ streak | language | date
 477 | Irish | Sat Jun 07 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
 478 | Irish | Sun Jun 08 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
 479 | Irish | Mon Jun 09 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
+480 | Irish | Tue Jun 10 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
