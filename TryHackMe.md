@@ -135,3 +135,6 @@ streak | course | date
 191 | Writing Pentest Reports | Mon May 19 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
 194 | Android Analysis | Thu May 22 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
 216 | OpenCTI | Fri Jun 13 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
+217 | Friday Overtime | Sat Jun 14 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
+217 | Traffic Analysis Essentials | Sat Jun 14 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
+217 | Trooper | Sat Jun 14 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
