@@ -141,3 +141,4 @@ streak | course | date
 218 | Snort | Sun Jun 15 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
 220 | NetworkMiner | Tue Jun 17 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
 220 | Roundcube: CVE-2025-49113 | Tue Jun 17 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
+225 | TShark: The Basics | Sun Jun 22 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
