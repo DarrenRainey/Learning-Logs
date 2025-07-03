@@ -209,3 +209,4 @@ streak | language | date
 500 | Irish | Mon Jun 30 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
 501 | Irish | Tue Jul 01 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
 502 | Irish | Wed Jul 02 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
+503 | Irish | Thu Jul 03 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
