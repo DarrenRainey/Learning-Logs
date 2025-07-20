@@ -226,3 +226,4 @@ streak | language | date
 516 | Irish | Thu Jul 17 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
 517 | Irish | Fri Jul 18 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
 519 | Irish | Sat Jul 19 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
+520 | Irish | Sun Jul 20 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
