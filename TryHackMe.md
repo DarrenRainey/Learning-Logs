@@ -146,3 +146,4 @@ streak | course | date
 238 | Cipher's Secret Message | Sat Jul 05 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
 238 | Cryptosystem | Sat Jul 05 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
 241 | Order | Tue Jul 08 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
+265 | Humans as Attack Vectors | Fri Aug 01 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
