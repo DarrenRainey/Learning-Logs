@@ -149,3 +149,4 @@ streak | course | date
 265 | Humans as Attack Vectors | Fri Aug 01 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
 275 | macOS Forensics: The Basics | Mon Aug 11 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
 280 | Systems as Attack Vectors | Sat Aug 16 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
+291 | Hack2Win: How you can grab extra tickets | Wed Aug 27 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
