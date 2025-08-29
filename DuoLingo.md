@@ -266,3 +266,4 @@ streak | language | date
 556 | Irish | Tue Aug 26 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
 558 | Irish | Wed Aug 27 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
 559 | Irish | Thu Aug 28 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
+560 | Irish | Fri Aug 29 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
