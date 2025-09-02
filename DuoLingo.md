@@ -270,3 +270,4 @@ streak | language | date
 561 | Irish | Sat Aug 30 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
 562 | Irish | Sun Aug 31 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
 563 | Irish | Mon Sep 01 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
+564 | Irish | Tue Sep 02 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
