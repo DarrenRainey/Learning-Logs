@@ -152,3 +152,4 @@ streak | course | date
 291 | Hack2Win: How you can grab extra tickets | Wed Aug 27 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
 292 | Web Security Essentials | Thu Aug 28 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
 293 | Introduction to EDR | Fri Aug 29 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
+301 | Malware Classification | Sat Sep 06 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
