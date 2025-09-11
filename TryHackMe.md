@@ -153,3 +153,4 @@ streak | course | date
 292 | Web Security Essentials | Thu Aug 28 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
 293 | Introduction to EDR | Fri Aug 29 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
 301 | Malware Classification | Sat Sep 06 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
+305 | SOC Role in Blue Team | Thu Sep 11 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
