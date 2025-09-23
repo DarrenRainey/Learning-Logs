@@ -290,3 +290,4 @@ streak | language | date
 582 | Irish | Sat Sep 20 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
 583 | Irish | Sun Sep 21 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
 584 | Irish | Mon Sep 22 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
+585 | Irish | Tue Sep 23 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
