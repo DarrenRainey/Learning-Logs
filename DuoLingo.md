@@ -311,3 +311,4 @@ streak | language | date
 606 | Irish | Tue Oct 14 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
 607 | Irish | Wed Oct 15 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
 608 | Irish | Thu Oct 16 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
+608 | Irish | Fri Oct 17 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
