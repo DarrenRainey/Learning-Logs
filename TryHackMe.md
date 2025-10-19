@@ -155,3 +155,4 @@ streak | course | date
 301 | Malware Classification | Sat Sep 06 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
 305 | SOC Role in Blue Team | Thu Sep 11 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
 318 | Detecting Web DDoS | Tue Sep 23 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
+344 | Network Traffic Basics | Sun Oct 19 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
