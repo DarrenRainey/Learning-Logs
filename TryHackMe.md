@@ -157,3 +157,4 @@ streak | course | date
 318 | Detecting Web DDoS | Tue Sep 23 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
 344 | Network Traffic Basics | Sun Oct 19 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
 356 | Splunk: The Basics | Thu Oct 30 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
+359 | Living Off the Land Attacks | Sun Nov 02 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
