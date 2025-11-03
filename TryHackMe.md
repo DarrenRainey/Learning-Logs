@@ -158,3 +158,6 @@ streak | course | date
 344 | Network Traffic Basics | Sun Oct 19 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
 356 | Splunk: The Basics | Thu Oct 30 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
 359 | Living Off the Land Attacks | Sun Nov 02 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
+360 | Brim | Mon Nov 03 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
+360 | Hosted Hypervisors  | Mon Nov 03 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
+360 | The Phishing Pond | Mon Nov 03 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
