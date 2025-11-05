@@ -161,3 +161,6 @@ streak | course | date
 360 | Brim | Mon Nov 03 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
 360 | Hosted Hypervisors  | Mon Nov 03 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
 360 | The Phishing Pond | Mon Nov 03 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
+362 | Intro to Malware Analysis | Wed Nov 05 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
+362 | Phishing Analysis Tools | Wed Nov 05 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
+362 | Phishing Prevention | Wed Nov 05 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
