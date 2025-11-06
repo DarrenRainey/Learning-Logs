@@ -331,3 +331,4 @@ streak | language | date
 625 | Irish | Mon Nov 03 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
 626 | Irish | Tue Nov 04 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
 627 | Irish | Wed Nov 05 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
+628 | Irish | Thu Nov 06 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
