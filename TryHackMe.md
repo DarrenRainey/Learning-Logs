@@ -166,3 +166,4 @@ streak | course | date
 362 | Phishing Prevention | Wed Nov 05 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
 363 | Network Security Essentials | Thu Nov 06 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
 363 | The Greenholt Phish | Thu Nov 06 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
+364 | Shadow Trace | Fri Nov 07 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
