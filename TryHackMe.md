@@ -169,3 +169,5 @@ streak | course | date
 364 | Shadow Trace | Fri Nov 07 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
 367 | File and Hash Threat Intel | Mon Nov 10 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
 367 | Snapped Phish-ing Line | Mon Nov 10 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
+368 | Detecting Web Attacks | Tue Nov 11 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
+368 | IP and Domain Threat Intel | Tue Nov 11 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
