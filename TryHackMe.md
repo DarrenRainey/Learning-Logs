@@ -173,3 +173,5 @@ streak | course | date
 368 | IP and Domain Threat Intel | Tue Nov 11 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
 369 | Input Manipulation & Prompt Injection | Wed Nov 12 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
 369 | Invite Only | Wed Nov 12 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
+370 | Linux Logging for SOC | Thu Nov 13 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
+370 | Linux Threat Detection 1 | Thu Nov 13 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
