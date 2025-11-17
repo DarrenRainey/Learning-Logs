@@ -175,3 +175,4 @@ streak | course | date
 369 | Invite Only | Wed Nov 12 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
 370 | Linux Logging for SOC | Thu Nov 13 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
 370 | Linux Threat Detection 1 | Thu Nov 13 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
+374 | OWASP Top 10 2025: IAAA Failures | Mon Nov 17 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
