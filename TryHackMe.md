@@ -178,3 +178,4 @@ streak | course | date
 374 | OWASP Top 10 2025: IAAA Failures | Mon Nov 17 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
 375 | Detecting Web Shells | Tue Nov 18 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
 377 | LLM Output Handling and Privacy Risks | Thu Nov 20 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
+379 | Advent of Cyber Prep Track | Sat Nov 22 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
