@@ -179,3 +179,5 @@ streak | course | date
 375 | Detecting Web Shells | Tue Nov 18 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
 377 | LLM Output Handling and Privacy Risks | Thu Nov 20 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
 379 | Advent of Cyber Prep Track | Sat Nov 22 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
+379 | Alert Triage With Elastic | Sun Nov 23 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
+379 | Linux Threat Detection 2 | Sun Nov 23 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
