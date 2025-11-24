@@ -181,3 +181,7 @@ streak | course | date
 379 | Advent of Cyber Prep Track | Sat Nov 22 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
 379 | Alert Triage With Elastic | Sun Nov 23 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
 379 | Linux Threat Detection 2 | Sun Nov 23 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
+381 | Data Exfiltration Detection | Mon Nov 24 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
+381 | Linux Threat Detection 3 | Mon Nov 24 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
+381 | Log Analysis with SIEM | Mon Nov 24 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
+381 | Network Discovery Detection | Mon Nov 24 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
