@@ -185,3 +185,6 @@ streak | course | date
 381 | Linux Threat Detection 3 | Mon Nov 24 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
 381 | Log Analysis with SIEM | Mon Nov 24 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
 381 | Network Discovery Detection | Mon Nov 24 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
+382 | Alert Triage With Splunk | Tue Nov 25 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
+382 | Benign | Tue Nov 25 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
+382 | Windows Logging for SOC | Tue Nov 25 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
