@@ -352,3 +352,4 @@ streak | language | date
 645 | Irish | Mon Nov 24 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
 646 | Irish | Tue Nov 25 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
 647 | Irish | Wed Nov 26 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
+647 | Irish | Thu Nov 27 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
