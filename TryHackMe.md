@@ -189,3 +189,5 @@ streak | course | date
 382 | Benign | Tue Nov 25 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
 382 | Windows Logging for SOC | Tue Nov 25 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
 383 | Man-in-the-Middle Detection | Wed Nov 26 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
+386 | Windows Threat Detection 1 | Sat Nov 29 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
+386 | Windows Threat Detection 2 | Sat Nov 29 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
