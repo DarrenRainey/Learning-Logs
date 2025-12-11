@@ -366,3 +366,4 @@ streak | language | date
 656 | Irish | Mon Dec 08 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
 657 | Irish | Tue Dec 09 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
 659 | Irish | Wed Dec 10 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
+660 | Irish | Thu Dec 11 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
