@@ -198,3 +198,4 @@ streak | course | date
 390 | Windows Forensics 1 | Wed Dec 03 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
 390 | Wireshark: Packet Operations | Wed Dec 03 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
 390 | Wireshark: Traffic Analysis | Wed Dec 03 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
+402 | Tempest | Mon Dec 15 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
