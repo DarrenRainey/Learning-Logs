@@ -200,3 +200,5 @@ streak | course | date
 390 | Wireshark: Traffic Analysis | Wed Dec 03 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
 402 | Tempest | Mon Dec 15 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
 407 | Boogeyman 1 | Sat Dec 20 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
+408 | Boogeyman 2 | Sun Dec 21 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
+408 | Boogeyman 3 | Sun Dec 21 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
