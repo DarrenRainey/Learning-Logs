@@ -380,3 +380,4 @@ streak | language | date
 671 | Irish | Mon Dec 22 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
 672 | Irish | Tue Dec 23 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
 673 | Irish | Wed Dec 24 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
+673 | Irish | Thu Dec 25 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
