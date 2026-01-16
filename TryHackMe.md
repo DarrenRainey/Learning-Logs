@@ -202,3 +202,6 @@ streak | course | date
 407 | Boogeyman 1 | Sat Dec 20 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
 408 | Boogeyman 2 | Sun Dec 21 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
 408 | Boogeyman 3 | Sun Dec 21 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
+434 | Burp Suite: The Basics | Fri Jan 16 2026 00:00:00 GMT+0000 (Coordinated Universal Time)
+434 | Malware Analysis - Malhare.exe | Fri Jan 16 2026 00:00:00 GMT+0000 (Coordinated Universal Time)
+434 | Windows Command Line | Fri Jan 16 2026 00:00:00 GMT+0000 (Coordinated Universal Time)
