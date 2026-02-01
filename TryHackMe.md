@@ -205,3 +205,4 @@ streak | course | date
 434 | Burp Suite: The Basics | Fri Jan 16 2026 00:00:00 GMT+0000 (Coordinated Universal Time)
 434 | Malware Analysis - Malhare.exe | Fri Jan 16 2026 00:00:00 GMT+0000 (Coordinated Universal Time)
 434 | Windows Command Line | Fri Jan 16 2026 00:00:00 GMT+0000 (Coordinated Universal Time)
+450 | Tardigrade | Sun Feb 01 2026 00:00:00 GMT+0000 (Coordinated Universal Time)
