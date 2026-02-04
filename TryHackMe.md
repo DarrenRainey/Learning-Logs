@@ -225,3 +225,4 @@ streak | course | date
 452 | Splunk Basics - Did you SIEM? | Tue Feb 03 2026 00:00:00 GMT+0000 (Coordinated Universal Time)
 452 | x86 Architecture Overview | Tue Feb 03 2026 00:00:00 GMT+0000 (Coordinated Universal Time)
 452 | XSS - Merry XSSMas | Tue Feb 03 2026 00:00:00 GMT+0000 (Coordinated Universal Time)
+453 | Splunk: Setting up a SOC Lab | Wed Feb 04 2026 00:00:00 GMT+0000 (Coordinated Universal Time)
