@@ -226,3 +226,6 @@ streak | course | date
 452 | x86 Architecture Overview | Tue Feb 03 2026 00:00:00 GMT+0000 (Coordinated Universal Time)
 452 | XSS - Merry XSSMas | Tue Feb 03 2026 00:00:00 GMT+0000 (Coordinated Universal Time)
 453 | Splunk: Setting up a SOC Lab | Wed Feb 04 2026 00:00:00 GMT+0000 (Coordinated Universal Time)
+456 | Client-Server Basics | Sat Feb 07 2026 00:00:00 GMT+0000 (Coordinated Universal Time)
+456 | Cloud Computing Fundamentals | Sat Feb 07 2026 00:00:00 GMT+0000 (Coordinated Universal Time)
+456 | Virtualisation Basics | Sat Feb 07 2026 00:00:00 GMT+0000 (Coordinated Universal Time)
