@@ -231,3 +231,5 @@ streak | course | date
 456 | Virtualisation Basics | Sat Feb 07 2026 00:00:00 GMT+0000 (Coordinated Universal Time)
 458 | Operating Systems: Introduction | Tue Feb 10 2026 00:00:00 GMT+0000 (Coordinated Universal Time)
 458 | Windows Basics | Tue Feb 10 2026 00:00:00 GMT+0000 (Coordinated Universal Time)
+460 | Linux CLI Basics | Wed Feb 11 2026 00:00:00 GMT+0000 (Coordinated Universal Time)
+460 | Windows CLI Basics | Wed Feb 11 2026 00:00:00 GMT+0000 (Coordinated Universal Time)
