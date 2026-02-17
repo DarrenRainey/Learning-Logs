@@ -237,3 +237,5 @@ streak | course | date
 461 | Data Representation | Thu Feb 12 2026 00:00:00 GMT+0000 (Coordinated Universal Time)
 461 | Inside a Computer System | Thu Feb 12 2026 00:00:00 GMT+0000 (Coordinated Universal Time)
 464 | Python: Simple Demo | Sun Feb 15 2026 00:00:00 GMT+0000 (Coordinated Universal Time)
+466 | Database SQL Basics | Tue Feb 17 2026 00:00:00 GMT+0000 (Coordinated Universal Time)
+466 | JavaScript: Simple Demo | Tue Feb 17 2026 00:00:00 GMT+0000 (Coordinated Universal Time)

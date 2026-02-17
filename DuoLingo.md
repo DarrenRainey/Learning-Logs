@@ -433,3 +433,4 @@ streak | language | date
 719 | Irish | Sat Feb 14 2026 00:00:00 GMT+0000 (Coordinated Universal Time)
 721 | Irish | Sun Feb 15 2026 00:00:00 GMT+0000 (Coordinated Universal Time)
 722 | Irish | Mon Feb 16 2026 00:00:00 GMT+0000 (Coordinated Universal Time)
+723 | Irish | Tue Feb 17 2026 00:00:00 GMT+0000 (Coordinated Universal Time)
