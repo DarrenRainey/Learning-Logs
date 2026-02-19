@@ -241,3 +241,4 @@ streak | course | date
 466 | JavaScript: Simple Demo | Tue Feb 17 2026 00:00:00 GMT+0000 (Coordinated Universal Time)
 467 | Cryptography Concepts | Wed Feb 18 2026 00:00:00 GMT+0000 (Coordinated Universal Time)
 467 | The CIA Triad | Wed Feb 18 2026 00:00:00 GMT+0000 (Coordinated Universal Time)
+468 | Become a Defender | Thu Feb 19 2026 00:00:00 GMT+0000 (Coordinated Universal Time)
