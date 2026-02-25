@@ -244,3 +244,5 @@ streak | course | date
 468 | Become a Defender | Thu Feb 19 2026 00:00:00 GMT+0000 (Coordinated Universal Time)
 469 | Become a Hacker | Fri Feb 20 2026 00:00:00 GMT+0000 (Coordinated Universal Time)
 469 | Splunk: Dashboards and Reports | Fri Feb 20 2026 00:00:00 GMT+0000 (Coordinated Universal Time)
+474 | Splunk: Exploring SPL | Wed Feb 25 2026 00:00:00 GMT+0000 (Coordinated Universal Time)
+474 | Windows Internals | Wed Feb 25 2026 00:00:00 GMT+0000 (Coordinated Universal Time)
