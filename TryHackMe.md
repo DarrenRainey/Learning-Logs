@@ -246,3 +246,4 @@ streak | course | date
 469 | Splunk: Dashboards and Reports | Fri Feb 20 2026 00:00:00 GMT+0000 (Coordinated Universal Time)
 474 | Splunk: Exploring SPL | Wed Feb 25 2026 00:00:00 GMT+0000 (Coordinated Universal Time)
 474 | Windows Internals | Wed Feb 25 2026 00:00:00 GMT+0000 (Coordinated Universal Time)
+475 | Hunt Me I: Payment Collectors | Thu Feb 26 2026 00:00:00 GMT+0000 (Coordinated Universal Time)
