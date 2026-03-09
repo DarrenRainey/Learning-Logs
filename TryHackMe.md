@@ -249,3 +249,4 @@ streak | course | date
 475 | Hunt Me I: Payment Collectors | Thu Feb 26 2026 00:00:00 GMT+0000 (Coordinated Universal Time)
 479 | Dynamic Analysis: Debugging | Mon Mar 02 2026 00:00:00 GMT+0000 (Coordinated Universal Time)
 484 | x86 Assembly Crash Course | Sat Mar 07 2026 00:00:00 GMT+0000 (Coordinated Universal Time)
+486 | Anti-Reverse Engineering | Mon Mar 09 2026 00:00:00 GMT+0000 (Coordinated Universal Time)
