@@ -251,3 +251,4 @@ streak | course | date
 484 | x86 Assembly Crash Course | Sat Mar 07 2026 00:00:00 GMT+0000 (Coordinated Universal Time)
 486 | Anti-Reverse Engineering | Mon Mar 09 2026 00:00:00 GMT+0000 (Coordinated Universal Time)
 487 | Dissecting PE Headers | Tue Mar 10 2026 00:00:00 GMT+0000 (Coordinated Universal Time)
+488 | M365 Monitoring Basics | Wed Mar 11 2026 00:00:00 GMT+0000 (Coordinated Universal Time)
