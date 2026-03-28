@@ -253,3 +253,4 @@ streak | course | date
 487 | Dissecting PE Headers | Tue Mar 10 2026 00:00:00 GMT+0000 (Coordinated Universal Time)
 488 | M365 Monitoring Basics | Wed Mar 11 2026 00:00:00 GMT+0000 (Coordinated Universal Time)
 493 | Entra ID Monitoring | Mon Mar 16 2026 00:00:00 GMT+0000 (Coordinated Universal Time)
+505 | Report Writing for SOC L2 | Sat Mar 28 2026 00:00:00 GMT+0000 (Coordinated Universal Time)
