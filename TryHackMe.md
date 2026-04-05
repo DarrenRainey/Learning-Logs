@@ -255,3 +255,4 @@ streak | course | date
 493 | Entra ID Monitoring | Mon Mar 16 2026 00:00:00 GMT+0000 (Coordinated Universal Time)
 505 | Report Writing for SOC L2 | Sat Mar 28 2026 00:00:00 GMT+0000 (Coordinated Universal Time)
 511 | Elastic: Using Logstash | Fri Apr 03 2026 00:00:00 GMT+0000 (Coordinated Universal Time)
+513 | Basic Dynamic Analysis | Sun Apr 05 2026 00:00:00 GMT+0000 (Coordinated Universal Time)
