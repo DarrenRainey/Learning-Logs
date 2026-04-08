@@ -256,3 +256,4 @@ streak | course | date
 505 | Report Writing for SOC L2 | Sat Mar 28 2026 00:00:00 GMT+0000 (Coordinated Universal Time)
 511 | Elastic: Using Logstash | Fri Apr 03 2026 00:00:00 GMT+0000 (Coordinated Universal Time)
 513 | Basic Dynamic Analysis | Sun Apr 05 2026 00:00:00 GMT+0000 (Coordinated Universal Time)
+516 | Splunk: Data Manipulation | Wed Apr 08 2026 00:00:00 GMT+0000 (Coordinated Universal Time)
