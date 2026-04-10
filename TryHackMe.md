@@ -257,3 +257,4 @@ streak | course | date
 511 | Elastic: Using Logstash | Fri Apr 03 2026 00:00:00 GMT+0000 (Coordinated Universal Time)
 513 | Basic Dynamic Analysis | Sun Apr 05 2026 00:00:00 GMT+0000 (Coordinated Universal Time)
 516 | Splunk: Data Manipulation | Wed Apr 08 2026 00:00:00 GMT+0000 (Coordinated Universal Time)
+518 | Phishing Basics | Fri Apr 10 2026 00:00:00 GMT+0000 (Coordinated Universal Time)
