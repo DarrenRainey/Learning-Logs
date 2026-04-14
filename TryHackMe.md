@@ -259,3 +259,4 @@ streak | course | date
 516 | Splunk: Data Manipulation | Wed Apr 08 2026 00:00:00 GMT+0000 (Coordinated Universal Time)
 518 | Phishing Basics | Fri Apr 10 2026 00:00:00 GMT+0000 (Coordinated Universal Time)
 521 | Intro to Threat Emulation | Mon Apr 13 2026 00:00:00 GMT+0000 (Coordinated Universal Time)
+522 | AI Security Path Ticketing Event | Tue Apr 14 2026 00:00:00 GMT+0000 (Coordinated Universal Time)
