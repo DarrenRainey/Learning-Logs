@@ -260,3 +260,4 @@ streak | course | date
 518 | Phishing Basics | Fri Apr 10 2026 00:00:00 GMT+0000 (Coordinated Universal Time)
 521 | Intro to Threat Emulation | Mon Apr 13 2026 00:00:00 GMT+0000 (Coordinated Universal Time)
 522 | AI Security Path Ticketing Event | Tue Apr 14 2026 00:00:00 GMT+0000 (Coordinated Universal Time)
+523 | AI/ML Security Threats | Wed Apr 15 2026 00:00:00 GMT+0000 (Coordinated Universal Time)
