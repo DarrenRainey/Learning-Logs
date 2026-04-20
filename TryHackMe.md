@@ -262,3 +262,4 @@ streak | course | date
 522 | AI Security Path Ticketing Event | Tue Apr 14 2026 00:00:00 GMT+0000 (Coordinated Universal Time)
 523 | AI/ML Security Threats | Wed Apr 15 2026 00:00:00 GMT+0000 (Coordinated Universal Time)
 525 | AI Models & Data | Fri Apr 17 2026 00:00:00 GMT+0000 (Coordinated Universal Time)
+528 | Jailbreaking | Mon Apr 20 2026 00:00:00 GMT+0000 (Coordinated Universal Time)
