@@ -264,3 +264,4 @@ streak | course | date
 525 | AI Models & Data | Fri Apr 17 2026 00:00:00 GMT+0000 (Coordinated Universal Time)
 528 | Jailbreaking | Mon Apr 20 2026 00:00:00 GMT+0000 (Coordinated Universal Time)
 534 | Basic Static Analysis | Sun Apr 26 2026 00:00:00 GMT+0000 (Coordinated Universal Time)
+538 | Basic Vulnerability Identification Techniques | Thu Apr 30 2026 00:00:00 GMT+0000 (Coordinated Universal Time)
