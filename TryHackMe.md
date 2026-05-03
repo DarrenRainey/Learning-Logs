@@ -266,3 +266,4 @@ streak | course | date
 534 | Basic Static Analysis | Sun Apr 26 2026 00:00:00 GMT+0000 (Coordinated Universal Time)
 538 | Basic Vulnerability Identification Techniques | Thu Apr 30 2026 00:00:00 GMT+0000 (Coordinated Universal Time)
 539 | Understanding Vulnerability Databases | Fri May 01 2026 00:00:00 GMT+0000 (Coordinated Universal Time)
+541 | Introduction to the World of OT/ICS | Sun May 03 2026 00:00:00 GMT+0000 (Coordinated Universal Time)
